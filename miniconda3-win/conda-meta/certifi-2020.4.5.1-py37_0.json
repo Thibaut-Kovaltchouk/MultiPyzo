@@ -1,0 +1,49 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\kovaltchouk\\miniconda3-win\\pkgs\\certifi-2020.4.5.1-py37_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/certifi-2020.4.5.1-py3.7.egg-info/PKG-INFO",
+    "Lib/site-packages/certifi-2020.4.5.1-py3.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/certifi-2020.4.5.1-py3.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/certifi-2020.4.5.1-py3.7.egg-info/installed-files.txt",
+    "Lib/site-packages/certifi-2020.4.5.1-py3.7.egg-info/not-zip-safe",
+    "Lib/site-packages/certifi-2020.4.5.1-py3.7.egg-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-37.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-37.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py"
+  ],
+  "fn": "certifi-2020.4.5.1-py37_0.conda",
+  "legacy_bz2_md5": "95b11e6d8b4ada63fc145b0bbff48b7a",
+  "legacy_bz2_size": 162990,
+  "license": "ISC",
+  "link": {
+    "source": "C:\\Users\\kovaltchouk\\miniconda3-win\\pkgs\\certifi-2020.4.5.1-py37_0",
+    "type": 1
+  },
+  "md5": "980cc7a7ba001a7878771c835b975fd9",
+  "name": "certifi",
+  "package_tarball_full_path": "C:\\Users\\kovaltchouk\\miniconda3-win\\pkgs\\certifi-2020.4.5.1-py37_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "certifi==2020.4.5.1=py37_0",
+  "sha256": "91244e541170d0c496a829727e89f33202e714789895b366d7148ad56ead7e17",
+  "size": 159980,
+  "subdir": "win-64",
+  "timestamp": 1586198742502,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2020.4.5.1-py37_0.conda",
+  "version": "2020.4.5.1"
+}
