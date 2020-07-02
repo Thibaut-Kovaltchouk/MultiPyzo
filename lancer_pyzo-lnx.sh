@@ -4,5 +4,5 @@
 echo "$(dirname "${0}")"
 cd "$(dirname "${0}")"
 
-# on lance conda
+# on lance pyzo
 eval ./miniconda3-lnx/pyzo-4.10.2/pyzo

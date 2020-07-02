@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-miniconda3-lnx
-share/
+miniconda3-lnx/
+info/
